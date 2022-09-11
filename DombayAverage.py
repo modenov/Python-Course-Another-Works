@@ -10,7 +10,7 @@ davstour3 = 5.0
 davstourAverage = (davstour1 + davstour2 + davstour3) / 3
 
 # https://clubao.ru/tur-na-dombay
-clubSpb1 = 4.3
+clubSpb1 = 4.4
 clubSpb2 = 3.8
 clubSpb3 = 3.0
 clubSpbAverage = (clubSpb1 + clubSpb2 + clubSpb3) / 3
