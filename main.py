@@ -28,3 +28,5 @@ print(s.strip())
 
 s = 'abcdababa'
 print(s.replace('ab', '123'))
+
+print(16 ** 0.5)
