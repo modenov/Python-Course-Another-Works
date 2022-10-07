@@ -30,3 +30,8 @@ s = 'abcdababa'
 print(s.replace('ab', '123'))
 
 print(16 ** 0.5)
+
+i = 4
+while i <= 10:
+    print ('Python!')
+    i += 1
